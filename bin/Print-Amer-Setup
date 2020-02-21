@@ -197,7 +197,7 @@ while true
 do
 read -r -p "Do you want to delete all printers before proceeding? 
 
-      (In most cases, you will want to coose 'Yes'. Unless 
+      (In most cases, you will want to choose 'Yes'. Unless 
       you have other printers that you want to \"remember\")
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
