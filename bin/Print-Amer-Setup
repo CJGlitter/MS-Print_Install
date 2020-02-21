@@ -22,6 +22,59 @@ echo "
 
 "
 sleep 1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+
+echo "
+   💡 \"From this day forward, you will be able to print!\""
+   
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+sleep 2
+echo "
+"
+sleep .1
+echo "
+"
+sleep .1
+echo "
+"
+
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   Enter your password below:"
 sudo sleep 2
