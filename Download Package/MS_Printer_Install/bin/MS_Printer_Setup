@@ -156,7 +156,7 @@ sleep .1
 
 # ****** DON'T FORGET TO RE-ADD THIS SUDO *****
 
-   sudo sleep 1
+   sudo sleep .1
 
 # ****** DON'T FORGET TO RE-ADD THIS SUDO *****
 
