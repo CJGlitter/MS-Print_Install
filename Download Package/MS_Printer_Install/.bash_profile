@@ -1,0 +1,1 @@
+export PATH=$PATH:/Users/corydavis/Desktop/Print_Setup
