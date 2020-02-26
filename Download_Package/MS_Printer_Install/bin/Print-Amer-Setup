@@ -462,7 +462,11 @@ sleep .1
 reset
 # Cleanup archive and installation folder
 rm ~/Downloads/MS_Printer_Install.zip
+rm ~/Downloads/MS_Printer_Install\ \(2\).zip
+rm ~/Downloads/MS_Printer_Install\ \(3\).zip
 rm -R ~/Downloads/MS_Printer_Install
+rm -R ~/Downloads/MS_Printer_Install\ 2
+rm -R ~/Downloads/MS_Printer_Install\ 3
 # End cleanup ~~~~~~
 echo "
 
